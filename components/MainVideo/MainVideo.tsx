@@ -4,9 +4,9 @@ import React, { useState, useEffect } from "react";
 import useWindowDimensions from "@/hooks/useWindowDimensions";
 
 const mobileVideo =
-  "https://drive.google.com/uc?id=1YSkSrBAd3hAvXrCjxZ3lwlanArStuYJ0";
+  "https://drive.google.com/uc?id=1ft_vR7IJrwEpxDspNaxmqrLsKDazL728";
 const desktopVideo =
-  "https://drive.google.com/uc?id=1U5WSkRjH7uhmletDPtAzxNXRHm3EekVB";
+  "https://drive.google.com/uc?id=1ZJqYgGe3-nPctptlpWEIvBjB1zGBc1o9";
 
 const MainVideo = () => {
   const [videoSrc, setVideoSrc] = useState(mobileVideo);
