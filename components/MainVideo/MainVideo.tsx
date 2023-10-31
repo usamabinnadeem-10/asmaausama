@@ -25,6 +25,7 @@ const MainVideo = () => {
       autoPlay
       muted
       src={videoSrc}
+      playsInline
     />
   );
 };
